@@ -1,0 +1,8 @@
+a79cf225c6d1c8e5370754ca81d554ae *DESCRIPTION
+87013f270c5ddffbb3efee7fe203cf79 *LICENSE
+455c3fcf71de346bc73753d416b02ee0 *NAMESPACE
+3e7a37d7ce221024225d57fdbf72da15 *R/get-stock-data.R
+cfc5cde4f61bb7554470836b066cb469 *man/get_stock_data.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
+459ef65d1250110c6d8ee1699db84c5a *tests/testthat.R
+80553116a151242672a1d79713f61695 *tests/testthat/test-get-stock.R
